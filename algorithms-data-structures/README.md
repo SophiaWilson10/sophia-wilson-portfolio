@@ -29,3 +29,12 @@ I also gained experience working with encoding and decoding processes and ensuri
 
 Overall, this enhancement improved my confidence in secure software development and gave me hands-on experience applying algorithms and data structures that are critical to protecting real-world financial and enterprise systems.
 
+## Enhanced Artifact Files
+
+The complete enhanced version of this project is provided below for review.
+
+- **Algorithms and Data Structures Enhancement (ZIP):**  
+  `Algorithms and Data Structure Enhancements.zip`
+
+This archive contains the full source code and supporting files demonstrating the implementation of hybrid encryption, key management, and data integrity validation.
+
