@@ -1,7 +1,7 @@
 # Sophia Wilson
 Computer Science Graduate | Software Engineering Focus
 
-## Professional Self-Assessment
+## Self-Assessment
 
 My journey through the Computer Science program has been one of the most rewarding experiences of my life. Building this ePortfolio gave me the opportunity to reflect on how much I have grown, both as a developer and as a professional. Each course added a new layer of knowledge, and the enhancements completed for my capstone helped me see how these skills come together to form a strong technical foundation. Throughout the program, I learned how to think like a software engineer, communicate effectively with diverse audiences, and approach problems with a focus on security, efficiency, and user experience.
 
