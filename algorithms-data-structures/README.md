@@ -31,10 +31,8 @@ Overall, this enhancement improved my confidence in secure software development 
 
 ## Enhanced Artifact Files
 
-The complete enhanced version of this project is provided below for review.
+The complete enhanced version of this project is provided as a downloadable archive.
 
 - **Algorithms and Data Structures Enhancement (ZIP):**  
-  `Algorithms and Data Structure Enhancements.zip`
-
-This archive contains the full source code and supporting files demonstrating the implementation of hybrid encryption, key management, and data integrity validation.
+  [Download the enhanced project](../../releases)
 
