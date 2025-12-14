@@ -16,3 +16,17 @@ Security became a core mindset rather than an afterthought. Through secure codin
 This ePortfolio brings everything together and tells my story as a computer science graduate. Each artifact represents a different area of expertise, and each enhancement demonstrates how I elevated earlier work to a more professional level. Together, they showcase my ability to solve complex problems, design clean and maintainable code, test and debug effectively, build meaningful user experiences, and secure the systems I create.
 
 This program has helped shape my professional goals and solidified my interests in software engineering, mobile development, databases, and UI and UX design. I enjoy building applications that are both functional and intuitive. I now feel prepared to enter the industry with confidence, supported by a strong technical foundation, a portfolio that reflects my growth, and a clear vision for continued learning and professional development.
+
+## Portfolio Artifacts
+
+### Software Design and Engineering
+📁 [Event-Tracking Android Application](./software-design)
+
+### Algorithms and Data Structures
+📁 [Artemis Financial Security Enhancement](./algorithms-data-structures)
+
+### Databases
+📁 [Grazioso Salvare MongoDB Dashboard Enhancement](./databases-enhancement)
+
+### Informal Code Review
+📁 [Code Review and Enhancement Plan](./code-review)
