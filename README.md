@@ -28,5 +28,3 @@ This program has helped shape my professional goals and solidified my interests 
 ### Databases
 📁 [Grazioso Salvare MongoDB Dashboard Enhancement](./databases-enhancement)
 
-### Code Review
-📁 [Code Review and Enhancement Plan](./code-review)
